@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI - Privacy-First Local AI Study Companion",
+  "description": "Transform your lecture notes and PDFs into a private, intelligent AI tutor with exam answer generator, viva practice, quiz maker, and personalized revision plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
